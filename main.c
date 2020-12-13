@@ -65,7 +65,7 @@ int main(int argc, char *argv[]) {
 
         if(iteration_count > 1) {
             double threshold = ((double) diff_sum / (N));
-            printf("Total changes in the iteration is %f\n", threshold);
+            printf("Total changes in the iteration: %d, Threshold: %f\n", diff_sum, threshold);
             if (threshold < 0.1) {
                 printf("No change. Enough iterations: %d\n", iteration_count);
                 exit(0);
