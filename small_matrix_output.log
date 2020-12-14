@@ -1,0 +1,139 @@
+Please enter the heat temperature:
+Temperature: 5
+Initial Matrix
+					0.00 0.00 0.00 0.00 
+					0.00 0.00 0.00 0.00 
+					0.00 0.00 0.00 0.00 
+					0.00 0.00 0.00 0.00 
+Heat Matrix
+					5.00 0.00 0.00 0.00 
+					5.00 0.00 0.00 0.00 
+					5.00 0.00 0.00 0.00 
+					5.00 0.00 0.00 0.00 
+Iteration: 1
+Matrix
+					5.00 1.25 0.00 0.00 
+					5.00 1.00 0.00 0.00 
+					5.00 1.00 0.00 0.00 
+					5.00 1.25 0.00 0.00 
+Total changes in the iteration: 0.000000, Threshold: -nan, Changed item count: 0
+Iteration: 2
+Matrix
+					5.00 1.81 0.31 0.00 
+					5.00 1.65 0.20 0.00 
+					5.00 1.65 0.20 0.00 
+					5.00 1.81 0.31 0.00 
+Total changes in the iteration: 2.425000, Threshold: 0.606250, Changed item count: 4
+Iteration: 3
+Matrix
+					5.00 2.19 0.58 0.10 
+					5.00 2.06 0.47 0.05 
+					5.00 2.06 0.47 0.05 
+					5.00 2.19 0.58 0.10 
+Total changes in the iteration: 2.670000, Threshold: 0.333750, Changed item count: 8
+Iteration: 4
+Matrix
+					5.00 2.46 0.84 0.25 
+					5.00 2.36 0.73 0.17 
+					5.00 2.36 0.73 0.17 
+					5.00 2.46 0.84 0.25 
+Total changes in the iteration: 2.666861, Threshold: 0.222238, Changed item count: 12
+Iteration: 5
+Matrix
+					5.00 2.66 1.07 0.42 
+					5.00 2.58 0.96 0.33 
+					5.00 2.58 0.96 0.33 
+					5.00 2.66 1.07 0.42 
+Total changes in the iteration: 2.447876, Threshold: 0.203990, Changed item count: 12
+Iteration: 6
+Matrix
+					5.00 2.83 1.28 0.60 
+					5.00 2.76 1.18 0.51 
+					5.00 2.76 1.18 0.51 
+					5.00 2.83 1.28 0.60 
+Total changes in the iteration: 2.274172, Threshold: 0.189514, Changed item count: 12
+Iteration: 7
+Matrix
+					5.00 2.97 1.47 0.80 
+					5.00 2.90 1.38 0.70 
+					5.00 2.90 1.38 0.70 
+					5.00 2.97 1.47 0.80 
+Total changes in the iteration: 2.129735, Threshold: 0.177478, Changed item count: 12
+Iteration: 8
+Matrix
+					5.00 3.09 1.65 0.99 
+					5.00 3.03 1.57 0.90 
+					5.00 3.03 1.57 0.90 
+					5.00 3.09 1.65 0.99 
+Total changes in the iteration: 2.004340, Threshold: 0.167028, Changed item count: 12
+Iteration: 9
+Matrix
+					5.00 3.19 1.82 1.18 
+					5.00 3.14 1.74 1.09 
+					5.00 3.14 1.74 1.09 
+					5.00 3.19 1.82 1.18 
+Total changes in the iteration: 1.892497, Threshold: 0.157708, Changed item count: 12
+Iteration: 10
+Matrix
+					5.00 3.29 1.99 1.36 
+					5.00 3.24 1.91 1.27 
+					5.00 3.24 1.91 1.27 
+					5.00 3.29 1.99 1.36 
+Total changes in the iteration: 1.790708, Threshold: 0.149226, Changed item count: 12
+Iteration: 11
+Matrix
+					5.00 3.38 2.14 1.54 
+					5.00 3.34 2.06 1.46 
+					5.00 3.34 2.06 1.46 
+					5.00 3.38 2.14 1.54 
+Total changes in the iteration: 1.696779, Threshold: 0.141398, Changed item count: 12
+Iteration: 12
+Matrix
+					5.00 3.46 2.28 1.71 
+					5.00 3.42 2.21 1.63 
+					5.00 3.42 2.21 1.63 
+					5.00 3.46 2.28 1.71 
+Total changes in the iteration: 1.609268, Threshold: 0.134106, Changed item count: 12
+Iteration: 13
+Matrix
+					5.00 3.54 2.42 1.87 
+					5.00 3.50 2.35 1.80 
+					5.00 3.50 2.35 1.80 
+					5.00 3.54 2.42 1.87 
+Total changes in the iteration: 1.527202, Threshold: 0.127267, Changed item count: 12
+Iteration: 14
+Matrix
+					5.00 3.62 2.55 2.03 
+					5.00 3.58 2.48 1.95 
+					5.00 3.58 2.48 1.95 
+					5.00 3.62 2.55 2.03 
+Total changes in the iteration: 1.449905, Threshold: 0.120825, Changed item count: 12
+Iteration: 15
+Matrix
+					5.00 3.69 2.67 2.18 
+					5.00 3.65 2.61 2.11 
+					5.00 3.65 2.61 2.11 
+					5.00 3.69 2.67 2.18 
+Total changes in the iteration: 1.376884, Threshold: 0.114740, Changed item count: 12
+Iteration: 16
+Matrix
+					5.00 3.75 2.79 2.32 
+					5.00 3.72 2.73 2.25 
+					5.00 3.72 2.73 2.25 
+					5.00 3.75 2.79 2.32 
+Total changes in the iteration: 1.307770, Threshold: 0.108981, Changed item count: 12
+Iteration: 17
+Matrix
+					5.00 3.81 2.90 2.45 
+					5.00 3.78 2.84 2.39 
+					5.00 3.78 2.84 2.39 
+					5.00 3.81 2.90 2.45 
+Total changes in the iteration: 1.242267, Threshold: 0.103522, Changed item count: 12
+Iteration: 18
+Matrix
+					5.00 3.87 3.00 2.58 
+					5.00 3.84 2.95 2.52 
+					5.00 3.84 2.95 2.52 
+					5.00 3.87 3.00 2.58 
+Total changes in the iteration: 1.180135, Threshold: 0.098345, Changed item count: 12
+No change. Enough iterations: 18
