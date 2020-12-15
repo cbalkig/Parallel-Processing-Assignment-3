@@ -5,8 +5,8 @@
 
 #define  N           32
 #define  NUM_BLOCKS  N * N / NUM_THREADS
-#define  NUM_THREADS 4
-
+#define  NUM_THREADS 256
+#define  THRESHOLD   0.001
 void printMatrix(char *id, double matrix[N * N]) {
     char *s = (char *) malloc(10000 * sizeof(char));
     sprintf(s, "%s\n", id);
@@ -47,7 +47,7 @@ __global__ void calc(double *a, double *b){
 
 int main() {
     // CUDA configs
-    // We will have Grid Dimension: 256,1,1 Block Dimension: 4,1,1
+    // We will have Grid Dimension: 4,1,1 Block Dimension: 256,1,1
     dim3 dimGrid(NUM_BLOCKS, 1, 1);
     dim3 dimBlock(NUM_THREADS, 1, 1);
     int size = N * N * sizeof(double);
@@ -108,7 +108,7 @@ int main() {
 
         double threshold = ((double) diff_sum / diff_present);
         printf("Total changes in the iteration: %f, Threshold: %f, Changed item count: %d\n", diff_sum, threshold, diff_present);
-        if (diff_present > 0 && threshold < 0.1) {
+        if (diff_present > 0 && threshold < THRESHOLD) {
             printf("No change. Enough iterations: %d\n", iteration_count);
             exit(0);
         }

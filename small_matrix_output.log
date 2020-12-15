@@ -136,4 +136,634 @@ Matrix
 					5.00 3.84 2.95 2.52 
 					5.00 3.87 3.00 2.58 
 Total changes in the iteration: 1.180135, Threshold: 0.098345, Changed item count: 12
-No change. Enough iterations: 18
+Iteration: 19
+Matrix
+					5.00 3.93 3.10 2.70 
+					5.00 3.90 3.05 2.64 
+					5.00 3.90 3.05 2.64 
+					5.00 3.93 3.10 2.70 
+Total changes in the iteration: 1.121166, Threshold: 0.093431, Changed item count: 12
+Iteration: 20
+Matrix
+					5.00 3.98 3.20 2.81 
+					5.00 3.96 3.15 2.76 
+					5.00 3.96 3.15 2.76 
+					5.00 3.98 3.20 2.81 
+Total changes in the iteration: 1.065179, Threshold: 0.088765, Changed item count: 12
+Iteration: 21
+Matrix
+					5.00 4.03 3.29 2.92 
+					5.00 4.01 3.24 2.87 
+					5.00 4.01 3.24 2.87 
+					5.00 4.03 3.29 2.92 
+Total changes in the iteration: 1.012010, Threshold: 0.084334, Changed item count: 12
+Iteration: 22
+Matrix
+					5.00 4.08 3.37 3.03 
+					5.00 4.06 3.33 2.98 
+					5.00 4.06 3.33 2.98 
+					5.00 4.08 3.37 3.03 
+Total changes in the iteration: 0.961508, Threshold: 0.080126, Changed item count: 12
+Iteration: 23
+Matrix
+					5.00 4.13 3.45 3.12 
+					5.00 4.11 3.41 3.08 
+					5.00 4.11 3.41 3.08 
+					5.00 4.13 3.45 3.12 
+Total changes in the iteration: 0.913535, Threshold: 0.076128, Changed item count: 12
+Iteration: 24
+Matrix
+					5.00 4.17 3.53 3.22 
+					5.00 4.15 3.49 3.17 
+					5.00 4.15 3.49 3.17 
+					5.00 4.17 3.53 3.22 
+Total changes in the iteration: 0.867961, Threshold: 0.072330, Changed item count: 12
+Iteration: 25
+Matrix
+					5.00 4.21 3.60 3.31 
+					5.00 4.19 3.57 3.26 
+					5.00 4.19 3.57 3.26 
+					5.00 4.21 3.60 3.31 
+Total changes in the iteration: 0.824663, Threshold: 0.068722, Changed item count: 12
+Iteration: 26
+Matrix
+					5.00 4.25 3.67 3.39 
+					5.00 4.23 3.64 3.35 
+					5.00 4.23 3.64 3.35 
+					5.00 4.25 3.67 3.39 
+Total changes in the iteration: 0.783528, Threshold: 0.065294, Changed item count: 12
+Iteration: 27
+Matrix
+					5.00 4.29 3.74 3.47 
+					5.00 4.27 3.71 3.43 
+					5.00 4.27 3.71 3.43 
+					5.00 4.29 3.74 3.47 
+Total changes in the iteration: 0.744446, Threshold: 0.062037, Changed item count: 12
+Iteration: 28
+Matrix
+					5.00 4.32 3.80 3.55 
+					5.00 4.31 3.77 3.51 
+					5.00 4.31 3.77 3.51 
+					5.00 4.32 3.80 3.55 
+Total changes in the iteration: 0.707314, Threshold: 0.058943, Changed item count: 12
+Iteration: 29
+Matrix
+					5.00 4.36 3.86 3.62 
+					5.00 4.34 3.83 3.58 
+					5.00 4.34 3.83 3.58 
+					5.00 4.36 3.86 3.62 
+Total changes in the iteration: 0.672035, Threshold: 0.056003, Changed item count: 12
+Iteration: 30
+Matrix
+					5.00 4.39 3.92 3.69 
+					5.00 4.38 3.89 3.66 
+					5.00 4.38 3.89 3.66 
+					5.00 4.39 3.92 3.69 
+Total changes in the iteration: 0.638515, Threshold: 0.053210, Changed item count: 12
+Iteration: 31
+Matrix
+					5.00 4.42 3.97 3.75 
+					5.00 4.41 3.95 3.72 
+					5.00 4.41 3.95 3.72 
+					5.00 4.42 3.97 3.75 
+Total changes in the iteration: 0.606668, Threshold: 0.050556, Changed item count: 12
+Iteration: 32
+Matrix
+					5.00 4.45 4.02 3.82 
+					5.00 4.44 4.00 3.79 
+					5.00 4.44 4.00 3.79 
+					5.00 4.45 4.02 3.82 
+Total changes in the iteration: 0.576409, Threshold: 0.048034, Changed item count: 12
+Iteration: 33
+Matrix
+					5.00 4.48 4.07 3.88 
+					5.00 4.46 4.05 3.85 
+					5.00 4.46 4.05 3.85 
+					5.00 4.48 4.07 3.88 
+Total changes in the iteration: 0.547660, Threshold: 0.045638, Changed item count: 12
+Iteration: 34
+Matrix
+					5.00 4.50 4.12 3.93 
+					5.00 4.49 4.10 3.90 
+					5.00 4.49 4.10 3.90 
+					5.00 4.50 4.12 3.93 
+Total changes in the iteration: 0.520345, Threshold: 0.043362, Changed item count: 12
+Iteration: 35
+Matrix
+					5.00 4.53 4.16 3.98 
+					5.00 4.52 4.14 3.96 
+					5.00 4.52 4.14 3.96 
+					5.00 4.53 4.16 3.98 
+Total changes in the iteration: 0.494392, Threshold: 0.041199, Changed item count: 12
+Iteration: 36
+Matrix
+					5.00 4.55 4.20 4.04 
+					5.00 4.54 4.18 4.01 
+					5.00 4.54 4.18 4.01 
+					5.00 4.55 4.20 4.04 
+Total changes in the iteration: 0.469733, Threshold: 0.039144, Changed item count: 12
+Iteration: 37
+Matrix
+					5.00 4.57 4.24 4.08 
+					5.00 4.56 4.22 4.06 
+					5.00 4.56 4.22 4.06 
+					5.00 4.57 4.24 4.08 
+Total changes in the iteration: 0.446304, Threshold: 0.037192, Changed item count: 12
+Iteration: 38
+Matrix
+					5.00 4.60 4.28 4.13 
+					5.00 4.58 4.26 4.11 
+					5.00 4.58 4.26 4.11 
+					5.00 4.60 4.28 4.13 
+Total changes in the iteration: 0.424044, Threshold: 0.035337, Changed item count: 12
+Iteration: 39
+Matrix
+					5.00 4.62 4.32 4.17 
+					5.00 4.61 4.30 4.15 
+					5.00 4.61 4.30 4.15 
+					5.00 4.62 4.32 4.17 
+Total changes in the iteration: 0.402895, Threshold: 0.033575, Changed item count: 12
+Iteration: 40
+Matrix
+					5.00 4.63 4.35 4.21 
+					5.00 4.63 4.33 4.19 
+					5.00 4.63 4.33 4.19 
+					5.00 4.63 4.35 4.21 
+Total changes in the iteration: 0.382800, Threshold: 0.031900, Changed item count: 12
+Iteration: 41
+Matrix
+					5.00 4.65 4.38 4.25 
+					5.00 4.64 4.37 4.23 
+					5.00 4.64 4.37 4.23 
+					5.00 4.65 4.38 4.25 
+Total changes in the iteration: 0.363707, Threshold: 0.030309, Changed item count: 12
+Iteration: 42
+Matrix
+					5.00 4.67 4.41 4.29 
+					5.00 4.66 4.40 4.27 
+					5.00 4.66 4.40 4.27 
+					5.00 4.67 4.41 4.29 
+Total changes in the iteration: 0.345566, Threshold: 0.028797, Changed item count: 12
+Iteration: 43
+Matrix
+					5.00 4.69 4.44 4.33 
+					5.00 4.68 4.43 4.31 
+					5.00 4.68 4.43 4.31 
+					5.00 4.69 4.44 4.33 
+Total changes in the iteration: 0.328331, Threshold: 0.027361, Changed item count: 12
+Iteration: 44
+Matrix
+					5.00 4.70 4.47 4.36 
+					5.00 4.69 4.46 4.34 
+					5.00 4.69 4.46 4.34 
+					5.00 4.70 4.47 4.36 
+Total changes in the iteration: 0.311955, Threshold: 0.025996, Changed item count: 12
+Iteration: 45
+Matrix
+					5.00 4.72 4.50 4.39 
+					5.00 4.71 4.49 4.38 
+					5.00 4.71 4.49 4.38 
+					5.00 4.72 4.50 4.39 
+Total changes in the iteration: 0.296396, Threshold: 0.024700, Changed item count: 12
+Iteration: 46
+Matrix
+					5.00 4.73 4.52 4.42 
+					5.00 4.72 4.51 4.41 
+					5.00 4.72 4.51 4.41 
+					5.00 4.73 4.52 4.42 
+Total changes in the iteration: 0.281613, Threshold: 0.023468, Changed item count: 12
+Iteration: 47
+Matrix
+					5.00 4.74 4.55 4.45 
+					5.00 4.74 4.54 4.44 
+					5.00 4.74 4.54 4.44 
+					5.00 4.74 4.55 4.45 
+Total changes in the iteration: 0.267567, Threshold: 0.022297, Changed item count: 12
+Iteration: 48
+Matrix
+					5.00 4.76 4.57 4.48 
+					5.00 4.75 4.56 4.46 
+					5.00 4.75 4.56 4.46 
+					5.00 4.76 4.57 4.48 
+Total changes in the iteration: 0.254221, Threshold: 0.021185, Changed item count: 12
+Iteration: 49
+Matrix
+					5.00 4.77 4.59 4.50 
+					5.00 4.76 4.58 4.49 
+					5.00 4.76 4.58 4.49 
+					5.00 4.77 4.59 4.50 
+Total changes in the iteration: 0.241542, Threshold: 0.020128, Changed item count: 12
+Iteration: 50
+Matrix
+					5.00 4.78 4.61 4.53 
+					5.00 4.78 4.60 4.52 
+					5.00 4.78 4.60 4.52 
+					5.00 4.78 4.61 4.53 
+Total changes in the iteration: 0.229495, Threshold: 0.019125, Changed item count: 12
+Iteration: 51
+Matrix
+					5.00 4.79 4.63 4.55 
+					5.00 4.79 4.62 4.54 
+					5.00 4.79 4.62 4.54 
+					5.00 4.79 4.63 4.55 
+Total changes in the iteration: 0.218048, Threshold: 0.018171, Changed item count: 12
+Iteration: 52
+Matrix
+					5.00 4.80 4.65 4.57 
+					5.00 4.80 4.64 4.56 
+					5.00 4.80 4.64 4.56 
+					5.00 4.80 4.65 4.57 
+Total changes in the iteration: 0.207173, Threshold: 0.017264, Changed item count: 12
+Iteration: 53
+Matrix
+					5.00 4.81 4.67 4.60 
+					5.00 4.81 4.66 4.59 
+					5.00 4.81 4.66 4.59 
+					5.00 4.81 4.67 4.60 
+Total changes in the iteration: 0.196840, Threshold: 0.016403, Changed item count: 12
+Iteration: 54
+Matrix
+					5.00 4.82 4.68 4.62 
+					5.00 4.82 4.68 4.61 
+					5.00 4.82 4.68 4.61 
+					5.00 4.82 4.68 4.62 
+Total changes in the iteration: 0.187022, Threshold: 0.015585, Changed item count: 12
+Iteration: 55
+Matrix
+					5.00 4.83 4.70 4.64 
+					5.00 4.83 4.69 4.63 
+					5.00 4.83 4.69 4.63 
+					5.00 4.83 4.70 4.64 
+Total changes in the iteration: 0.177694, Threshold: 0.014808, Changed item count: 12
+Iteration: 56
+Matrix
+					5.00 4.84 4.71 4.65 
+					5.00 4.83 4.71 4.64 
+					5.00 4.83 4.71 4.64 
+					5.00 4.84 4.71 4.65 
+Total changes in the iteration: 0.168831, Threshold: 0.014069, Changed item count: 12
+Iteration: 57
+Matrix
+					5.00 4.85 4.73 4.67 
+					5.00 4.84 4.72 4.66 
+					5.00 4.84 4.72 4.66 
+					5.00 4.85 4.73 4.67 
+Total changes in the iteration: 0.160411, Threshold: 0.013368, Changed item count: 12
+Iteration: 58
+Matrix
+					5.00 4.85 4.74 4.69 
+					5.00 4.85 4.74 4.68 
+					5.00 4.85 4.74 4.68 
+					5.00 4.85 4.74 4.69 
+Total changes in the iteration: 0.152410, Threshold: 0.012701, Changed item count: 12
+Iteration: 59
+Matrix
+					5.00 4.86 4.75 4.70 
+					5.00 4.86 4.75 4.70 
+					5.00 4.86 4.75 4.70 
+					5.00 4.86 4.75 4.70 
+Total changes in the iteration: 0.144808, Threshold: 0.012067, Changed item count: 12
+Iteration: 60
+Matrix
+					5.00 4.87 4.77 4.72 
+					5.00 4.87 4.76 4.71 
+					5.00 4.87 4.76 4.71 
+					5.00 4.87 4.77 4.72 
+Total changes in the iteration: 0.137586, Threshold: 0.011465, Changed item count: 12
+Iteration: 61
+Matrix
+					5.00 4.88 4.78 4.73 
+					5.00 4.87 4.77 4.72 
+					5.00 4.87 4.77 4.72 
+					5.00 4.88 4.78 4.73 
+Total changes in the iteration: 0.130723, Threshold: 0.010894, Changed item count: 12
+Iteration: 62
+Matrix
+					5.00 4.88 4.79 4.74 
+					5.00 4.88 4.78 4.74 
+					5.00 4.88 4.78 4.74 
+					5.00 4.88 4.79 4.74 
+Total changes in the iteration: 0.124203, Threshold: 0.010350, Changed item count: 12
+Iteration: 63
+Matrix
+					5.00 4.89 4.80 4.76 
+					5.00 4.88 4.79 4.75 
+					5.00 4.88 4.79 4.75 
+					5.00 4.89 4.80 4.76 
+Total changes in the iteration: 0.118009, Threshold: 0.009834, Changed item count: 12
+Iteration: 64
+Matrix
+					5.00 4.89 4.81 4.77 
+					5.00 4.89 4.81 4.76 
+					5.00 4.89 4.81 4.76 
+					5.00 4.89 4.81 4.77 
+Total changes in the iteration: 0.112123, Threshold: 0.009344, Changed item count: 12
+Iteration: 65
+Matrix
+					5.00 4.90 4.82 4.78 
+					5.00 4.90 4.81 4.78 
+					5.00 4.90 4.81 4.78 
+					5.00 4.90 4.82 4.78 
+Total changes in the iteration: 0.106530, Threshold: 0.008878, Changed item count: 12
+Iteration: 66
+Matrix
+					5.00 4.90 4.83 4.79 
+					5.00 4.90 4.82 4.79 
+					5.00 4.90 4.82 4.79 
+					5.00 4.90 4.83 4.79 
+Total changes in the iteration: 0.101217, Threshold: 0.008435, Changed item count: 12
+Iteration: 67
+Matrix
+					5.00 4.91 4.84 4.80 
+					5.00 4.91 4.83 4.80 
+					5.00 4.91 4.83 4.80 
+					5.00 4.91 4.84 4.80 
+Total changes in the iteration: 0.096169, Threshold: 0.008014, Changed item count: 12
+Iteration: 68
+Matrix
+					5.00 4.91 4.85 4.81 
+					5.00 4.91 4.84 4.81 
+					5.00 4.91 4.84 4.81 
+					5.00 4.91 4.85 4.81 
+Total changes in the iteration: 0.091372, Threshold: 0.007614, Changed item count: 12
+Iteration: 69
+Matrix
+					5.00 4.92 4.85 4.82 
+					5.00 4.92 4.85 4.82 
+					5.00 4.92 4.85 4.82 
+					5.00 4.92 4.85 4.82 
+Total changes in the iteration: 0.086815, Threshold: 0.007235, Changed item count: 12
+Iteration: 70
+Matrix
+					5.00 4.92 4.86 4.83 
+					5.00 4.92 4.86 4.83 
+					5.00 4.92 4.86 4.83 
+					5.00 4.92 4.86 4.83 
+Total changes in the iteration: 0.082485, Threshold: 0.006874, Changed item count: 12
+Iteration: 71
+Matrix
+					5.00 4.93 4.87 4.84 
+					5.00 4.92 4.86 4.83 
+					5.00 4.92 4.86 4.83 
+					5.00 4.93 4.87 4.84 
+Total changes in the iteration: 0.078371, Threshold: 0.006531, Changed item count: 12
+Iteration: 72
+Matrix
+					5.00 4.93 4.87 4.85 
+					5.00 4.93 4.87 4.84 
+					5.00 4.93 4.87 4.84 
+					5.00 4.93 4.87 4.85 
+Total changes in the iteration: 0.074462, Threshold: 0.006205, Changed item count: 12
+Iteration: 73
+Matrix
+					5.00 4.93 4.88 4.85 
+					5.00 4.93 4.88 4.85 
+					5.00 4.93 4.88 4.85 
+					5.00 4.93 4.88 4.85 
+Total changes in the iteration: 0.070748, Threshold: 0.005896, Changed item count: 12
+Iteration: 74
+Matrix
+					5.00 4.94 4.89 4.86 
+					5.00 4.93 4.88 4.86 
+					5.00 4.93 4.88 4.86 
+					5.00 4.94 4.89 4.86 
+Total changes in the iteration: 0.067219, Threshold: 0.005602, Changed item count: 12
+Iteration: 75
+Matrix
+					5.00 4.94 4.89 4.87 
+					5.00 4.94 4.89 4.87 
+					5.00 4.94 4.89 4.87 
+					5.00 4.94 4.89 4.87 
+Total changes in the iteration: 0.063867, Threshold: 0.005322, Changed item count: 12
+Iteration: 76
+Matrix
+					5.00 4.94 4.90 4.88 
+					5.00 4.94 4.89 4.87 
+					5.00 4.94 4.89 4.87 
+					5.00 4.94 4.90 4.88 
+Total changes in the iteration: 0.060681, Threshold: 0.005057, Changed item count: 12
+Iteration: 77
+Matrix
+					5.00 4.94 4.90 4.88 
+					5.00 4.94 4.90 4.88 
+					5.00 4.94 4.90 4.88 
+					5.00 4.94 4.90 4.88 
+Total changes in the iteration: 0.057655, Threshold: 0.004805, Changed item count: 12
+Iteration: 78
+Matrix
+					5.00 4.95 4.91 4.89 
+					5.00 4.95 4.90 4.88 
+					5.00 4.95 4.90 4.88 
+					5.00 4.95 4.91 4.89 
+Total changes in the iteration: 0.054779, Threshold: 0.004565, Changed item count: 12
+Iteration: 79
+Matrix
+					5.00 4.95 4.91 4.89 
+					5.00 4.95 4.91 4.89 
+					5.00 4.95 4.91 4.89 
+					5.00 4.95 4.91 4.89 
+Total changes in the iteration: 0.052047, Threshold: 0.004337, Changed item count: 12
+Iteration: 80
+Matrix
+					5.00 4.95 4.92 4.90 
+					5.00 4.95 4.91 4.90 
+					5.00 4.95 4.91 4.90 
+					5.00 4.95 4.92 4.90 
+Total changes in the iteration: 0.049451, Threshold: 0.004121, Changed item count: 12
+Iteration: 81
+Matrix
+					5.00 4.96 4.92 4.90 
+					5.00 4.95 4.92 4.90 
+					5.00 4.95 4.92 4.90 
+					5.00 4.96 4.92 4.90 
+Total changes in the iteration: 0.046985, Threshold: 0.003915, Changed item count: 12
+Iteration: 82
+Matrix
+					5.00 4.96 4.92 4.91 
+					5.00 4.96 4.92 4.91 
+					5.00 4.96 4.92 4.91 
+					5.00 4.96 4.92 4.91 
+Total changes in the iteration: 0.044641, Threshold: 0.003720, Changed item count: 12
+Iteration: 83
+Matrix
+					5.00 4.96 4.93 4.91 
+					5.00 4.96 4.93 4.91 
+					5.00 4.96 4.93 4.91 
+					5.00 4.96 4.93 4.91 
+Total changes in the iteration: 0.042415, Threshold: 0.003535, Changed item count: 12
+Iteration: 84
+Matrix
+					5.00 4.96 4.93 4.92 
+					5.00 4.96 4.93 4.92 
+					5.00 4.96 4.93 4.92 
+					5.00 4.96 4.93 4.92 
+Total changes in the iteration: 0.040299, Threshold: 0.003358, Changed item count: 12
+Iteration: 85
+Matrix
+					5.00 4.96 4.94 4.92 
+					5.00 4.96 4.93 4.92 
+					5.00 4.96 4.93 4.92 
+					5.00 4.96 4.94 4.92 
+Total changes in the iteration: 0.038289, Threshold: 0.003191, Changed item count: 12
+Iteration: 86
+Matrix
+					5.00 4.97 4.94 4.93 
+					5.00 4.96 4.94 4.92 
+					5.00 4.96 4.94 4.92 
+					5.00 4.97 4.94 4.93 
+Total changes in the iteration: 0.036379, Threshold: 0.003032, Changed item count: 12
+Iteration: 87
+Matrix
+					5.00 4.97 4.94 4.93 
+					5.00 4.97 4.94 4.93 
+					5.00 4.97 4.94 4.93 
+					5.00 4.97 4.94 4.93 
+Total changes in the iteration: 0.034565, Threshold: 0.002880, Changed item count: 12
+Iteration: 88
+Matrix
+					5.00 4.97 4.94 4.93 
+					5.00 4.97 4.94 4.93 
+					5.00 4.97 4.94 4.93 
+					5.00 4.97 4.94 4.93 
+Total changes in the iteration: 0.032841, Threshold: 0.002737, Changed item count: 12
+Iteration: 89
+Matrix
+					5.00 4.97 4.95 4.94 
+					5.00 4.97 4.95 4.93 
+					5.00 4.97 4.95 4.93 
+					5.00 4.97 4.95 4.94 
+Total changes in the iteration: 0.031203, Threshold: 0.002600, Changed item count: 12
+Iteration: 90
+Matrix
+					5.00 4.97 4.95 4.94 
+					5.00 4.97 4.95 4.94 
+					5.00 4.97 4.95 4.94 
+					5.00 4.97 4.95 4.94 
+Total changes in the iteration: 0.029647, Threshold: 0.002471, Changed item count: 12
+Iteration: 91
+Matrix
+					5.00 4.97 4.95 4.94 
+					5.00 4.97 4.95 4.94 
+					5.00 4.97 4.95 4.94 
+					5.00 4.97 4.95 4.94 
+Total changes in the iteration: 0.028168, Threshold: 0.002347, Changed item count: 12
+Iteration: 92
+Matrix
+					5.00 4.97 4.95 4.95 
+					5.00 4.97 4.95 4.94 
+					5.00 4.97 4.95 4.94 
+					5.00 4.97 4.95 4.95 
+Total changes in the iteration: 0.026763, Threshold: 0.002230, Changed item count: 12
+Iteration: 93
+Matrix
+					5.00 4.98 4.96 4.95 
+					5.00 4.98 4.96 4.95 
+					5.00 4.98 4.96 4.95 
+					5.00 4.98 4.96 4.95 
+Total changes in the iteration: 0.025428, Threshold: 0.002119, Changed item count: 12
+Iteration: 94
+Matrix
+					5.00 4.98 4.96 4.95 
+					5.00 4.98 4.96 4.95 
+					5.00 4.98 4.96 4.95 
+					5.00 4.98 4.96 4.95 
+Total changes in the iteration: 0.024160, Threshold: 0.002013, Changed item count: 12
+Iteration: 95
+Matrix
+					5.00 4.98 4.96 4.95 
+					5.00 4.98 4.96 4.95 
+					5.00 4.98 4.96 4.95 
+					5.00 4.98 4.96 4.95 
+Total changes in the iteration: 0.022955, Threshold: 0.001913, Changed item count: 12
+Iteration: 96
+Matrix
+					5.00 4.98 4.96 4.96 
+					5.00 4.98 4.96 4.95 
+					5.00 4.98 4.96 4.95 
+					5.00 4.98 4.96 4.96 
+Total changes in the iteration: 0.021810, Threshold: 0.001818, Changed item count: 12
+Iteration: 97
+Matrix
+					5.00 4.98 4.96 4.96 
+					5.00 4.98 4.96 4.96 
+					5.00 4.98 4.96 4.96 
+					5.00 4.98 4.96 4.96 
+Total changes in the iteration: 0.020722, Threshold: 0.001727, Changed item count: 12
+Iteration: 98
+Matrix
+					5.00 4.98 4.97 4.96 
+					5.00 4.98 4.97 4.96 
+					5.00 4.98 4.97 4.96 
+					5.00 4.98 4.97 4.96 
+Total changes in the iteration: 0.019689, Threshold: 0.001641, Changed item count: 12
+Iteration: 99
+Matrix
+					5.00 4.98 4.97 4.96 
+					5.00 4.98 4.97 4.96 
+					5.00 4.98 4.97 4.96 
+					5.00 4.98 4.97 4.96 
+Total changes in the iteration: 0.018707, Threshold: 0.001559, Changed item count: 12
+Iteration: 100
+Matrix
+					5.00 4.98 4.97 4.96 
+					5.00 4.98 4.97 4.96 
+					5.00 4.98 4.97 4.96 
+					5.00 4.98 4.97 4.96 
+Total changes in the iteration: 0.017774, Threshold: 0.001481, Changed item count: 12
+Iteration: 101
+Matrix
+					5.00 4.98 4.97 4.97 
+					5.00 4.98 4.97 4.96 
+					5.00 4.98 4.97 4.96 
+					5.00 4.98 4.97 4.97 
+Total changes in the iteration: 0.016887, Threshold: 0.001407, Changed item count: 12
+Iteration: 102
+Matrix
+					5.00 4.98 4.97 4.97 
+					5.00 4.98 4.97 4.97 
+					5.00 4.98 4.97 4.97 
+					5.00 4.98 4.97 4.97 
+Total changes in the iteration: 0.016045, Threshold: 0.001337, Changed item count: 12
+Iteration: 103
+Matrix
+					5.00 4.99 4.97 4.97 
+					5.00 4.99 4.97 4.97 
+					5.00 4.99 4.97 4.97 
+					5.00 4.99 4.97 4.97 
+Total changes in the iteration: 0.015245, Threshold: 0.001270, Changed item count: 12
+Iteration: 104
+Matrix
+					5.00 4.99 4.98 4.97 
+					5.00 4.99 4.97 4.97 
+					5.00 4.99 4.97 4.97 
+					5.00 4.99 4.98 4.97 
+Total changes in the iteration: 0.014484, Threshold: 0.001207, Changed item count: 12
+Iteration: 105
+Matrix
+					5.00 4.99 4.98 4.97 
+					5.00 4.99 4.98 4.97 
+					5.00 4.99 4.98 4.97 
+					5.00 4.99 4.98 4.97 
+Total changes in the iteration: 0.013762, Threshold: 0.001147, Changed item count: 12
+Iteration: 106
+Matrix
+					5.00 4.99 4.98 4.97 
+					5.00 4.99 4.98 4.97 
+					5.00 4.99 4.98 4.97 
+					5.00 4.99 4.98 4.97 
+Total changes in the iteration: 0.013075, Threshold: 0.001090, Changed item count: 12
+Iteration: 107
+Matrix
+					5.00 4.99 4.98 4.97 
+					5.00 4.99 4.98 4.97 
+					5.00 4.99 4.98 4.97 
+					5.00 4.99 4.98 4.97 
+Total changes in the iteration: 0.012423, Threshold: 0.001035, Changed item count: 12
+Iteration: 108
+Matrix
+					5.00 4.99 4.98 4.98 
+					5.00 4.99 4.98 4.98 
+					5.00 4.99 4.98 4.98 
+					5.00 4.99 4.98 4.98 
+Total changes in the iteration: 0.011804, Threshold: 0.000984, Changed item count: 12
+No change. Enough iterations: 108
